@@ -10,6 +10,8 @@
 
 [Internt REST API](https://github.com/vektorprogrammet/api)
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=9dce3847cdc9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <!--
 
 **Here are some ideas to get you started:**
