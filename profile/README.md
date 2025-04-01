@@ -4,11 +4,11 @@
 
 ## Prosjekter
 
-[Hjemmesiden](https://github.com/vektorprogrammet/homepage)
-
-[Interne kontrollpanel](https://github.com/vektorprogrammet/dashboard)
-
-[Internt REST API](https://github.com/vektorprogrammet/api)
+| Deployment status | GitHub Repo | Live Website |
+| --- | --- | --- |
+| [![Netlify Status](https://api.netlify.com/api/v1/badges/753c4dd7-228e-4dbd-b54d-8456c7c733b5/deploy-status)](https://app.netlify.com/sites/vektorprogrammet-homepage/deploys) | [Homepage](https://github.com/vektorprogrammet/homepage) | [Hjemmesiden](https://vektorprogrammet-homepage.netlify.app/)
+| [![Netlify Status](https://api.netlify.com/api/v1/badges/764334f8-8aee-4609-a223-171f2ac11bfc/deploy-status)](https://app.netlify.com/sites/vektorprogrammet-dashboard/deploys) | [Dashboard](https://github.com/vektorprogrammet/dashboard) | [Kontrollpanel](https://vektorprogrammet-dashboard.netlify.app/)
+| | [REST API](https://github.com/vektorprogrammet/api) | |
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=9dce3847cdc9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
